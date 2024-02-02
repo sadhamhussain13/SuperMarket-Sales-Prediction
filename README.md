@@ -1,7 +1,8 @@
 # Supermarket Sales Prediction Project
 
 ## Overview:
-This project aims to predict supermarket sales based on various features. The prediction is crucial for supermarkets to manage inventory, plan promotions, and optimize operations. The dataset used for this project contains historical sales data along with other relevant features.
+- This project aims to predict supermarket sales based on various features. The prediction is crucial for supermarkets to manage inventory, plan promotions, and optimize operations. The dataset used for this project contains historical sales data along with other relevant features.
+- This project is based on the classification method in machine learning. Classification is a supervised learning task that involves categorizing input data into predefined classes or categories based on its features. The goal is to learn a mapping from input features to class labels and then use this learned mapping to classify new, unseen data points accurately.
 
 ## Exploratory Data Analysis (EDA):
 - Analyzed the dataset to understand the distribution of features and their relationship with the target variable (sales).
@@ -14,7 +15,7 @@ This project aims to predict supermarket sales based on various features. The pr
 - Split the dataset into training and testing sets for model training and evaluation.
 
 ## Model Training:
-- Utilized various machine learning algorithms including:
+- There are various algorithms used for classification tasks, including:
   - KNeighbors Classifier
   - Support Vector Classifier (SVC)
   - Random Forest Classifier
